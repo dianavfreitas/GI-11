@@ -1,0 +1,71 @@
+[
+    {
+        "employeeID": 1,
+        "name": "Justin Bieber",
+        "salary": 90000,
+        "department": "Sales"
+    },
+
+    {
+        "employeeID": 2,
+        "name": "Dolly Parton",
+        "salary": 95000,
+        "department": "Marketing"
+    },
+
+    {
+        "employeeID": 3,
+        "name": "Will Smith",
+        "salary": 100000,
+        "department": "Finance"
+    },
+
+    {
+        "employeeID": 4,
+        "name": "Leonardo DiCaprio",
+        "salary": 105000,
+        "department": "Accounting"
+    },
+
+    {
+        "employeeID": 5,
+        "name": "Johnny Depp",
+        "salary": 110000,
+        "department": "Human Resources"
+    },
+
+    {
+        "employeeID": 6,
+        "name": "Dwayne Johnson",
+        "salary": 115000,
+        "department": "IT"
+    },
+
+    {
+        "employeeID": 7,
+        "name": "Ariana Grande",
+        "salary": 120000,
+        "department": "Quality Control"
+    },
+
+    {
+        "employeeID": 8,
+        "name": "Mandy Moore",
+        "salary": 125000,
+        "department": "Project Management"
+    },
+
+    {
+        "employeeID": 9,
+        "name": "Jennifer Aniston",
+        "salary": 130000,
+        "department": "Customer Service"
+    },
+
+    {
+        "employeeID": 10,
+        "name": "Katy Perry",
+        "salary": 135000,
+        "department": "Design"
+    }
+]
